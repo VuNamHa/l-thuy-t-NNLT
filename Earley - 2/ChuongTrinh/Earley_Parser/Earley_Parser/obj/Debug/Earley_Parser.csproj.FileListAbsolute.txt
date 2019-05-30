@@ -1,0 +1,24 @@
+E:\CaoHoc\Chuong trinh dich\Bai tap\PP Phan tich cu phap Earley\Earley_Parser\Earley_Parser\bin\Debug\Earley_Parser.exe.config
+E:\CaoHoc\Chuong trinh dich\Bai tap\PP Phan tich cu phap Earley\Earley_Parser\Earley_Parser\bin\Debug\Earley_Parser.exe
+E:\CaoHoc\Chuong trinh dich\Bai tap\PP Phan tich cu phap Earley\Earley_Parser\Earley_Parser\bin\Debug\Earley_Parser.pdb
+E:\CaoHoc\Chuong trinh dich\Bai tap\PP Phan tich cu phap Earley\Earley_Parser\Earley_Parser\obj\Debug\Earley_Parser.csprojResolveAssemblyReference.cache
+E:\CaoHoc\Chuong trinh dich\Bai tap\PP Phan tich cu phap Earley\Earley_Parser\Earley_Parser\obj\Debug\Earley_Parser.exe
+E:\CaoHoc\Chuong trinh dich\Bai tap\PP Phan tich cu phap Earley\Earley_Parser\Earley_Parser\obj\Debug\Earley_Parser.pdb
+H:\tai lieu bai tap CTD\10. Earley\Earley_Parser\Earley_Parser\Earley_Parser\bin\Debug\Earley_Parser.exe.config
+H:\tai lieu bai tap CTD\10. Earley\Earley_Parser\Earley_Parser\Earley_Parser\obj\Debug\Earley_Parser.exe
+H:\tai lieu bai tap CTD\10. Earley\Earley_Parser\Earley_Parser\Earley_Parser\obj\Debug\Earley_Parser.pdb
+H:\tai lieu bai tap CTD\10. Earley\Earley_Parser\Earley_Parser\Earley_Parser\bin\Debug\Earley_Parser.exe
+H:\tai lieu bai tap CTD\10. Earley\Earley_Parser\Earley_Parser\Earley_Parser\bin\Debug\Earley_Parser.pdb
+H:\tai lieu bai tap CTD\10. Earley\Earley_Parser\Earley_Parser\Earley_Parser\obj\Debug\Earley_Parser.csprojResolveAssemblyReference.cache
+G:\tai lieu bai tap CTD\10. Earley\Earley_Parser\Earley_Parser\Earley_Parser\bin\Debug\Earley_Parser.exe.config
+G:\tai lieu bai tap CTD\10. Earley\Earley_Parser\Earley_Parser\Earley_Parser\obj\Debug\Earley_Parser.exe
+G:\tai lieu bai tap CTD\10. Earley\Earley_Parser\Earley_Parser\Earley_Parser\obj\Debug\Earley_Parser.pdb
+G:\tai lieu bai tap CTD\10. Earley\Earley_Parser\Earley_Parser\Earley_Parser\bin\Debug\Earley_Parser.exe
+G:\tai lieu bai tap CTD\10. Earley\Earley_Parser\Earley_Parser\Earley_Parser\bin\Debug\Earley_Parser.pdb
+G:\tai lieu bai tap CTD\10. Earley\Earley_Parser\Earley_Parser\Earley_Parser\obj\Debug\Earley_Parser.csprojResolveAssemblyReference.cache
+E:\DuLieuUSB2G\tai lieu bai tap CTD\10. Earley\Earley_Parser\Earley_Parser\Earley_Parser\bin\Debug\Earley_Parser.exe.config
+E:\DuLieuUSB2G\tai lieu bai tap CTD\10. Earley\Earley_Parser\Earley_Parser\Earley_Parser\obj\Debug\Earley_Parser.exe
+E:\DuLieuUSB2G\tai lieu bai tap CTD\10. Earley\Earley_Parser\Earley_Parser\Earley_Parser\obj\Debug\Earley_Parser.pdb
+E:\DuLieuUSB2G\tai lieu bai tap CTD\10. Earley\Earley_Parser\Earley_Parser\Earley_Parser\bin\Debug\Earley_Parser.exe
+E:\DuLieuUSB2G\tai lieu bai tap CTD\10. Earley\Earley_Parser\Earley_Parser\Earley_Parser\bin\Debug\Earley_Parser.pdb
+E:\DuLieuUSB2G\tai lieu bai tap CTD\10. Earley\Earley_Parser\Earley_Parser\Earley_Parser\obj\Debug\Earley_Parser.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\CaoHoc\Chuong trinh dich\Bai tap\PP Phan tich cu phap Earley\Earley_Parser\Earley_Parser\bin\Debug\Earley_Parser.exe.config
+E:\CaoHoc\Chuong trinh dich\Bai tap\PP Phan tich cu phap Earley\Earley_Parser\Earley_Parser\bin\Debug\Earley_Parser.exe
+E:\CaoHoc\Chuong trinh dich\Bai tap\PP Phan tich cu phap Earley\Earley_Parser\Earley_Parser\bin\Debug\Earley_Parser.pdb
+E:\CaoHoc\Chuong trinh dich\Bai tap\PP Phan tich cu phap Earley\Earley_Parser\Earley_Parser\obj\Debug\Earley_Parser.csprojResolveAssemblyReference.cache
+E:\CaoHoc\Chuong trinh dich\Bai tap\PP Phan tich cu phap Earley\Earley_Parser\Earley_Parser\obj\Debug\Earley_Parser.exe
+E:\CaoHoc\Chuong trinh dich\Bai tap\PP Phan tich cu phap Earley\Earley_Parser\Earley_Parser\obj\Debug\Earley_Parser.pdb

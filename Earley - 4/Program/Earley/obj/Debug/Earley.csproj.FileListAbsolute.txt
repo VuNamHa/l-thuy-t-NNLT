@@ -1,0 +1,26 @@
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\Earley\Earley\bin\Debug\Earley.exe
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\Earley\Earley\bin\Debug\Earley.pdb
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\Earley\Earley\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\Earley\Earley\obj\Debug\Earley.MainForm.resources
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\Earley\Earley\obj\Debug\Earley.Properties.Resources.resources
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\Earley\Earley\obj\Debug\Earley.csproj.GenerateResource.Cache
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\Earley\Earley\obj\Debug\Earley.exe
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\Earley\Earley\obj\Debug\Earley.pdb
+C:\Users\Administrator\Downloads\Earley Parser - A Simplified Model for Natural Language Processing\C#\Earley\obj\Debug\Earley.exe
+C:\Users\Administrator\Downloads\Earley Parser - A Simplified Model for Natural Language Processing\C#\Earley\obj\Debug\Earley.pdb
+C:\Users\Administrator\Downloads\Earley Parser - A Simplified Model for Natural Language Processing\C#\Earley\bin\Debug\Earley.exe
+C:\Users\Administrator\Downloads\Earley Parser - A Simplified Model for Natural Language Processing\C#\Earley\bin\Debug\Earley.pdb
+C:\Users\Administrator\Downloads\Earley Parser - A Simplified Model for Natural Language Processing\C#\Earley\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\Earley Parser - A Simplified Model for Natural Language Processing\C#\Earley\obj\Debug\Earley.MainForm.resources
+C:\Users\Administrator\Downloads\Earley Parser - A Simplified Model for Natural Language Processing\C#\Earley\obj\Debug\Earley.Properties.Resources.resources
+C:\Users\Administrator\Downloads\Earley Parser - A Simplified Model for Natural Language Processing\C#\Earley\obj\Debug\ResGen.read.1.tlog
+C:\Users\Administrator\Downloads\Earley Parser - A Simplified Model for Natural Language Processing\C#\Earley\obj\Debug\ResGen.write.1.tlog
+E:\tai lieu Cao hoc K27\10. Earley\Earley Parser - A Simplified Model for Natural Language Processing\C#\Earley\bin\Debug\Earley.exe
+E:\tai lieu Cao hoc K27\10. Earley\Earley Parser - A Simplified Model for Natural Language Processing\C#\Earley\bin\Debug\Earley.pdb
+E:\tai lieu Cao hoc K27\10. Earley\Earley Parser - A Simplified Model for Natural Language Processing\C#\Earley\obj\Debug\ResolveAssemblyReference.cache
+E:\tai lieu Cao hoc K27\10. Earley\Earley Parser - A Simplified Model for Natural Language Processing\C#\Earley\obj\Debug\Earley.MainForm.resources
+E:\tai lieu Cao hoc K27\10. Earley\Earley Parser - A Simplified Model for Natural Language Processing\C#\Earley\obj\Debug\Earley.Properties.Resources.resources
+E:\tai lieu Cao hoc K27\10. Earley\Earley Parser - A Simplified Model for Natural Language Processing\C#\Earley\obj\Debug\ResGen.read.1.tlog
+E:\tai lieu Cao hoc K27\10. Earley\Earley Parser - A Simplified Model for Natural Language Processing\C#\Earley\obj\Debug\ResGen.write.1.tlog
+E:\tai lieu Cao hoc K27\10. Earley\Earley Parser - A Simplified Model for Natural Language Processing\C#\Earley\obj\Debug\Earley.exe
+E:\tai lieu Cao hoc K27\10. Earley\Earley Parser - A Simplified Model for Natural Language Processing\C#\Earley\obj\Debug\Earley.pdb

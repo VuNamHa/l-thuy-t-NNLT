@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Earley">
+</Property><Property Name="Solution File" Value="C:\Users\Administrator\Downloads\Earley Parser - A Simplified Model for Natural Language Processing\C#\Earley.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Administrator\Downloads\Earley Parser - A Simplified Model for Natural Language Processing\C#\Earley.suo">
+</Property><Property Name="Date" Value="28 Tháng Mười 2015">
+</Property><Property Name="Time" Value="21:14 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Earley.sln" Description="File successfully backed up as C:\Users\Administrator\Downloads\Earley Parser - A Simplified Model for Natural Language Processing\C#\Backup\Earley.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Earley.suo" Description="File successfully backed up as C:\Users\Administrator\Downloads\Earley Parser - A Simplified Model for Natural Language Processing\C#\Backup\Earley.suo">
+</Event><Event ErrorLevel="0" Project="Earley" Source="Earley\Earley.csproj" Description="Project file successfully backed up as C:\Users\Administrator\Downloads\Earley Parser - A Simplified Model for Natural Language Processing\C#\Backup\Earley\Earley.csproj">
+</Event><Event ErrorLevel="0" Project="Earley" Source="Earley\Chart.cs" Description="File successfully backed up as C:\Users\Administrator\Downloads\Earley Parser - A Simplified Model for Natural Language Processing\C#\Backup\Earley\Chart.cs">
+</Event><Event ErrorLevel="0" Project="Earley" Source="Earley\EarleyParser.cs" Description="File successfully backed up as C:\Users\Administrator\Downloads\Earley Parser - A Simplified Model for Natural Language Processing\C#\Backup\Earley\EarleyParser.cs">
+</Event><Event ErrorLevel="0" Project="Earley" Source="Earley\MainForm.cs" Description="File successfully backed up as C:\Users\Administrator\Downloads\Earley Parser - A Simplified Model for Natural Language Processing\C#\Backup\Earley\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="Earley" Source="Earley\MainForm.Designer.cs" Description="File successfully backed up as C:\Users\Administrator\Downloads\Earley Parser - A Simplified Model for Natural Language Processing\C#\Backup\Earley\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Earley" Source="Earley\Grammar.cs" Description="File successfully backed up as C:\Users\Administrator\Downloads\Earley Parser - A Simplified Model for Natural Language Processing\C#\Backup\Earley\Grammar.cs">
+</Event><Event ErrorLevel="0" Project="Earley" Source="Earley\Program.cs" Description="File successfully backed up as C:\Users\Administrator\Downloads\Earley Parser - A Simplified Model for Natural Language Processing\C#\Backup\Earley\Program.cs">
+</Event><Event ErrorLevel="0" Project="Earley" Source="Earley\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Administrator\Downloads\Earley Parser - A Simplified Model for Natural Language Processing\C#\Backup\Earley\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Earley" Source="Earley\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Administrator\Downloads\Earley Parser - A Simplified Model for Natural Language Processing\C#\Backup\Earley\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Earley" Source="Earley\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Administrator\Downloads\Earley Parser - A Simplified Model for Natural Language Processing\C#\Backup\Earley\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Earley" Source="Earley\RHS.cs" Description="File successfully backed up as C:\Users\Administrator\Downloads\Earley Parser - A Simplified Model for Natural Language Processing\C#\Backup\Earley\RHS.cs">
+</Event><Event ErrorLevel="0" Project="Earley" Source="Earley\SimpleGrammar.cs" Description="File successfully backed up as C:\Users\Administrator\Downloads\Earley Parser - A Simplified Model for Natural Language Processing\C#\Backup\Earley\SimpleGrammar.cs">
+</Event><Event ErrorLevel="0" Project="Earley" Source="Earley\SimpleGrammar1.cs" Description="File successfully backed up as C:\Users\Administrator\Downloads\Earley Parser - A Simplified Model for Natural Language Processing\C#\Backup\Earley\SimpleGrammar1.cs">
+</Event><Event ErrorLevel="0" Project="Earley" Source="Earley\State.cs" Description="File successfully backed up as C:\Users\Administrator\Downloads\Earley Parser - A Simplified Model for Natural Language Processing\C#\Backup\Earley\State.cs">
+</Event><Event ErrorLevel="0" Project="Earley" Source="Earley\Properties\Settings.settings" Description="File successfully backed up as C:\Users\Administrator\Downloads\Earley Parser - A Simplified Model for Natural Language Processing\C#\Backup\Earley\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Earley" Source="Earley\MainForm.resx" Description="File successfully backed up as C:\Users\Administrator\Downloads\Earley Parser - A Simplified Model for Natural Language Processing\C#\Backup\Earley\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="Earley" Source="Earley\Properties\Resources.resx" Description="File successfully backed up as C:\Users\Administrator\Downloads\Earley Parser - A Simplified Model for Natural Language Processing\C#\Backup\Earley\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Earley" Source="Earley\Earley.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Earley" Source="Earley\Earley.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Earley.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Earley.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Earley" Source="Earley\Earley.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

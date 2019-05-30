@@ -1,0 +1,13 @@
+S N AP$
+S N VP$
+S VP AP$
+S NP VP$
+S NP AP$
+S P VP$	
+NP N A$
+NP Ad N$
+NP N N$	
+VP V NP$
+VP V N$
+AP R A$
+
